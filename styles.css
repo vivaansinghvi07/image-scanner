@@ -1,4 +1,11 @@
+title {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
 body {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 50px;
 }
