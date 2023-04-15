@@ -11,10 +11,11 @@ A PHP-powered site that scans the contents of an image!
 - Install `pytesseract`, `opencv`, and `langdetect`
     - You can do this with: 
     
-    ```
-    $ pip install pytesseract
-    $ pip install opencv.python
-    $ pip install langdetect
-    ```
+        ```
+        $ pip install pytesseract
+        $ pip install opencv.python
+        $ pip install langdetect
+        ```
+        
 - Host a server (that supports PHP) on `index.html`
 - You're good to go!
